@@ -1,0 +1,26 @@
+{
+  "daisy": {
+    "en": "Ensure proper sunlight and well-draining soil. Watch out for aphids.",
+    "hi": "पर्याप्त धूप और अच्छी जल निकासी वाली मिट्टी सुनिश्चित करें। माहू से सावधान रहें।"
+  },
+  "dandelion": {
+    "en": "Hardy plant, requires minimal care. Remove manually if considered a weed.",
+    "hi": "हार्डी पौधा, न्यूनतम देखभाल की आवश्यकता होती है।"
+  },
+  "roses": {
+    "en": "Water at the base to prevent powdery mildew. Prune dead stems regularly.",
+    "hi": "पाउडर फफूंदी को रोकने के लिए जड़ में पानी दें। मृत तनों की नियमित छंटाई करें।"
+  },
+  "sunflowers": {
+    "en": "Needs full sun and deep, infrequent watering to support heavy blooms.",
+    "hi": "भारी फूलों के समर्थन के लिए पूरी धूप और गहरी, कम लगातार पानी देने की आवश्यकता होती है।"
+  },
+  "tulips": {
+    "en": "Plant bulbs in well-drained soil. Avoid waterlogging to prevent root rot.",
+    "hi": "अच्छी जल निकासी वाली मिट्टी में बल्ब लगाएं। जड़ सड़न रोकने के लिए जलभराव से बचें।"
+  },
+  "flower_photos": {
+    "en": "General healthy plant care: maintain balanced moisture and adequate sunlight.",
+    "hi": "सामान्य स्वस्थ पौधे की देखभाल: संतुलित नमी और पर्याप्त धूप बनाए रखें।"
+  }
+}
